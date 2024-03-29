@@ -1,0 +1,543 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\controllers\\workhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\controllers\\workhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\views\\workhistory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\views\\workhistory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\models\\viewmodel\\editjobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\models\\viewmodel\\editjobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\views\\workhistory\\viewdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\views\\workhistory\\viewdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\models\\viewmodel\\workhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\models\\viewmodel\\workhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\wwwroot\\css\\workhistory.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\wwwroot\\css\\workhistory.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\views\\workhistory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\views\\workhistory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\models\\viewmodel\\workportriat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\models\\viewmodel\\workportriat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\models\\viewmodel\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\models\\viewmodel\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\views\\contact\\contactpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\views\\contact\\contactpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\services\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\services\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\models\\entities\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\models\\entities\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\models\\viewmodel\\addjobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\models\\viewmodel\\addjobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\views\\workhistory\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\views\\workhistory\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/WorkHistory/True/SqlTable/dbo.Jobs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\models\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\models\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\week_5_assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\week_5_assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\migrations\\20240328185553_seeddatamigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\migrations\\20240328185553_seeddatamigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|c:\\users\\winif\\onedrive\\documents\\decagon classes\\week_5_assignment\\week_5_assignment\\migrations\\20240328185045_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB53B79-BDEA-4B65-AFE4-A66C04C95427}|week_5_Assignment\\week_5_Assignment.csproj|solutionrelative:week_5_assignment\\migrations\\20240328185045_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\WorkHistory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Views\\WorkHistory\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\WorkHistory\\Edit.cshtml",
+              "RelativeToolTip": "week_5_Assignment\\Views\\WorkHistory\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T21:13:44.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\WorkHistory\\ViewDetail.cshtml",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Views\\WorkHistory\\ViewDetail.cshtml",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\WorkHistory\\ViewDetail.cshtml",
+              "RelativeToolTip": "week_5_Assignment\\Views\\WorkHistory\\ViewDetail.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:12:46.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\WorkHistory\\Index.cshtml",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Views\\WorkHistory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\WorkHistory\\Index.cshtml",
+              "RelativeToolTip": "week_5_Assignment\\Views\\WorkHistory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T21:15:17.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkPortriat.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\ViewModel\\WorkPortriat.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Models\\ViewModel\\WorkPortriat.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\ViewModel\\WorkPortriat.cs",
+              "RelativeToolTip": "week_5_Assignment\\Models\\ViewModel\\WorkPortriat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:50:25.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkHistory.css",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\wwwroot\\css\\WorkHistory.css",
+              "RelativeDocumentMoniker": "week_5_Assignment\\wwwroot\\css\\WorkHistory.css",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\wwwroot\\css\\WorkHistory.css",
+              "RelativeToolTip": "week_5_Assignment\\wwwroot\\css\\WorkHistory.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-27T21:08:08.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Controllers\\WorkHistoryController.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Controllers\\WorkHistoryController.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Controllers\\WorkHistoryController.cs",
+              "RelativeToolTip": "week_5_Assignment\\Controllers\\WorkHistoryController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAApwIUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:17:47.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditJobViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\ViewModel\\EditJobViewModel.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Models\\ViewModel\\EditJobViewModel.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\ViewModel\\EditJobViewModel.cs",
+              "RelativeToolTip": "week_5_Assignment\\Models\\ViewModel\\EditJobViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:09:57.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\ViewModel\\WorkHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Models\\ViewModel\\WorkHistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\ViewModel\\WorkHistoryViewModel.cs",
+              "RelativeToolTip": "week_5_Assignment\\Models\\ViewModel\\WorkHistoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:47:43.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "week_5_Assignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\appsettings.json",
+              "RelativeToolTip": "week_5_Assignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T18:32:37.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "week_5_Assignment\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "week_5_Assignment\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-23T19:27:45.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "week_5_Assignment\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T03:04:51.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "week_5_Assignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T18:47:14.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "week_5_Assignment\\wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "week_5_Assignment\\wwwroot\\css\\home.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-23T19:27:42.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Services\\EmailService.cs",
+              "RelativeToolTip": "week_5_Assignment\\Services\\EmailService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:48:21.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Services\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Services\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Services\\EmailSettings.cs",
+              "RelativeToolTip": "week_5_Assignment\\Services\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T02:44:10.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Program.cs",
+              "RelativeToolTip": "week_5_Assignment\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T02:38:35.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\Contact\\ContactPage.cshtml",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Views\\Contact\\ContactPage.cshtml",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\Contact\\ContactPage.cshtml",
+              "RelativeToolTip": "week_5_Assignment\\Views\\Contact\\ContactPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T03:17:32.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\ViewModel\\ContactViewModel.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Models\\ViewModel\\ContactViewModel.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\ViewModel\\ContactViewModel.cs",
+              "RelativeToolTip": "week_5_Assignment\\Models\\ViewModel\\ContactViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:08:54.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "week_5_Assignment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwCcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T23:30:07.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\Entities\\UserDetail.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Models\\Entities\\UserDetail.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\Entities\\UserDetail.cs",
+              "RelativeToolTip": "week_5_Assignment\\Models\\Entities\\UserDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T07:09:12.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "week_5_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T22:58:03.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "week_5_Assignment\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T03:12:20.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "week_5_Assignment\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:25:28.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "week_5_Assignment\\Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:46:10.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddJobViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\ViewModel\\AddJobViewModel.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Models\\ViewModel\\AddJobViewModel.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\ViewModel\\AddJobViewModel.cs",
+              "RelativeToolTip": "week_5_Assignment\\Models\\ViewModel\\AddJobViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:22:53.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddNew.cshtml",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\WorkHistory\\AddNew.cshtml",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Views\\WorkHistory\\AddNew.cshtml",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\WorkHistory\\AddNew.cshtml",
+              "RelativeToolTip": "week_5_Assignment\\Views\\WorkHistory\\AddNew.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:14:44.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240328185553_seedDataMigration.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Migrations\\20240328185553_seedDataMigration.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Migrations\\20240328185553_seedDataMigration.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Migrations\\20240328185553_seedDataMigration.cs",
+              "RelativeToolTip": "week_5_Assignment\\Migrations\\20240328185553_seedDataMigration.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:55:53.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.Jobs [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/WorkHistory/True/SqlTable/dbo.Jobs.sql",
+              "ToolTip": "dbo.Jobs [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-28T19:11:06.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240328185045_firstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Migrations\\20240328185045_firstMigration.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Migrations\\20240328185045_firstMigration.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Migrations\\20240328185045_firstMigration.cs",
+              "RelativeToolTip": "week_5_Assignment\\Migrations\\20240328185045_firstMigration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:50:45.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Models\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Models\\Entities\\Job.cs",
+              "RelativeToolTip": "week_5_Assignment\\Models\\Entities\\Job.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:28:36.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "week_5_Assignment.csproj",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\week_5_Assignment.csproj",
+              "RelativeDocumentMoniker": "week_5_Assignment\\week_5_Assignment.csproj",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\week_5_Assignment.csproj",
+              "RelativeToolTip": "week_5_Assignment\\week_5_Assignment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T18:22:09.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "week_5_Assignment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\winif\\OneDrive\\Documents\\Decagon classes\\week_5_Assignment\\week_5_Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "week_5_Assignment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T22:25:12.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

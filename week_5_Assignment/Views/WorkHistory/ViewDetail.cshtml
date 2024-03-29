@@ -1,0 +1,25 @@
+﻿@model WorkPortriat
+
+@* <h1> View Job Details</h1> *@
+<br />
+
+<div class="work-detail-panel">
+    <div class="companyname-box">
+        <h3>@Model.Company</h3>
+        
+    </div>   
+    <hr />
+    <div class="jobdescription-box">
+        <h5>@Model.JobTitle</h5>
+        <p >@Model.JobDescription</p>
+    </div>
+    <div class="date-box">
+       
+        <p> @Model.StartDate to @Model.EndDate</p>
+    </div>
+     
+    <div class="actions">
+       <a asp-action="Edit" asp-controller="workHistory" asp-route-id="@Model.Id" id="upd-btn">Edit</a>
+        <a asp-action="Delete" asp-controller="workHistory" asp-route-id="@Model.Id" id="del-btn">Delete</a>
+    </div>
+</div>

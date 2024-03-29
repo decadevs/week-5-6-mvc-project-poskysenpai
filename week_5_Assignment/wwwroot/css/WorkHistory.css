@@ -1,0 +1,66 @@
+﻿.work-frame-panel{
+    border: 1px solid black;
+    min-height:400px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+   
+}
+.work-frame {
+    border: 0px solid black;
+    width: 95%;
+    
+    margin: 10px;
+   
+}
+#work-1 div h5{
+    text-decoration: none;
+}
+.jobdescription-box{
+
+    width: 400px;
+    height: 400px;
+}
+
+
+.actions a{
+    text-decoration:none;
+    display: inline-block;
+    margin-top:20px;
+    margin-right: 20px;
+    padding: 10px 20px;
+    border-radius:6px;
+}
+#del-btn{
+    background-color: red;
+    color: white;
+}
+
+#del-btn:hover{
+    opacity: 0.5;
+}
+#upd-btn {
+    background-color: blue;
+    color: white;
+}
+#upd-btn:hover {
+    opacity: 0.5;
+}
+.add-btn{
+    background-color: blue;
+    color: white;
+
+}
+.add-btn:hover{
+    opacity:0.5;
+}
+.flexed {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    border-radius: 6px;
+}
+.flexed a{
+    text-decoration: none;
+}

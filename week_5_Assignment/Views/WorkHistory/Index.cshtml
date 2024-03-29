@@ -1,0 +1,24 @@
+﻿@model WorkHistoryViewModel
+<div class="flexed">
+    <h1>Work History</h1>
+    <a  asp-action="addNew" asp-controller="workHistory" class="add-btn">Add New</a>
+</div>
+
+<div class="work-frame-panel">
+    @foreach(var portriat in Model.WorkPortriats)
+    {
+        <a asp-controller="workHistory" asp-action="viewDetail" asp-route-id="@portriat.Id">
+            <div class="work-frame" id="work-1">
+                <div>
+                    <h5>@portriat.Company</h5>
+                    </div>
+              
+                <p>@portriat.JobTitle</p>
+               
+                <hr />
+            </div>
+        </a>
+    }
+    
+    
+</div>

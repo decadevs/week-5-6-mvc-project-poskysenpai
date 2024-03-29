@@ -1,0 +1,45 @@
+﻿@model AddJobViewModel
+
+<h1>Add Work Experience</h1>
+
+<form method="post" asp-action="addNew" asp-controller="workHistory">
+    <p>
+        
+        <p> <label asp-for="Company"></label>  <span style="color:red;">*</span></p>
+    <p><span asp-validation-for="Company" style="color:red;"></span></p>
+        <input asp-for="Company"/>
+
+    </p>
+    <p>
+
+    <p>  <label asp-for="JobTitle"></label> <span style="color:red;">*</span> </p>
+    <p><span asp-validation-for="JobTitle" style="color:red;"></span></p>
+        <textarea asp-for="JobTitle"></textarea>
+        
+
+    </p>
+    <p>
+    <p>  <label asp-for="JobDescription"></label> <span style="color:red;">*</span></p>
+    <p><span asp-validation-for="JobDescription" style="color:red;"></span></p>
+        <textarea Cols="50" rows="10" asp-for="JobDescription"></textarea>
+            
+
+    </p
+    <p>
+        <p><label asp-for="StartDate"></label></p>
+        <input asp-for="StartDate" />
+
+    </p>
+    <p>
+           <p> <label asp-for="EndDate"></label> </p>
+            <input asp-for="EndDate" />
+
+    </p>
+    <p>
+       <button type="submit" class="add-btn">Submit</button>
+
+    </p>
+
+
+</form>
+

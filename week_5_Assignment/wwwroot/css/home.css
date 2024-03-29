@@ -1,0 +1,43 @@
+﻿body {
+    margin:0;
+    padding: 0;
+    background: url("../Images/background-image.jpg") no-repeat ;
+    background-size:cover;
+    
+}
+
+.
+
+.Intro {
+    width: 450px;
+    background: rgba(0,0,0,0,4);
+    padding:40px;
+    text-align:center;
+    margin:auto;
+    margin-top:5%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.Intro img{
+    width: 200px;
+    height: 200px;
+    border-radius:50%;
+    margin-bottom: 20px;
+}
+
+.Intro h2{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.Intro h3 {
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+.Intro p{
+    
+}
